@@ -1,6 +1,6 @@
 # Introduction
 
-# Repo Structure
+# Contents
 
 *   **Cisco ACI**
     *   [**ACI Automation with Ansible**](https://github.com/jtanderson2/ansible-aci)
