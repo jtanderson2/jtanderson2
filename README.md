@@ -5,6 +5,8 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 
 # Contents
 
+**Azure**
+
 **Cisco ACI**
 
 *   [**ACI Automation with Ansible**](https://github.com/jtanderson2/ansible-aci)
