@@ -9,6 +9,8 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 
 **Azure**
 
+* [**Cisco ASA Configuration - Connecting Resilient VPN to Azure VWAN Hub**](https://github.com/jtanderson2/azure-vwan-asa-config)
+
 **Cisco ACI**
 
 *   [**ACI Automation with Ansible**](https://github.com/jtanderson2/ansible-aci)
