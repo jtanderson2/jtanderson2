@@ -10,6 +10,7 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 **Azure**
 
 * [**Cisco ASA Configuration - Connecting Resilient VPN to Azure VWAN Hub**](https://github.com/jtanderson2/azure-vwan-asa-config)
+* [**Azure Networking Lab Building Blocks with Azure CLI**](https://github.com/jtanderson2/azure-network-lab-building-blocks)
 
 **Cisco ACI**
 
