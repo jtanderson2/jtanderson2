@@ -24,6 +24,11 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
     *   [Policy Group Update](https://github.com/jtanderson2/aci-ansible/tree/master/policy-group-update)
 *   [**ACI CLI Guide**](https://github.com/jtanderson2/cisco-aci-cli)
 
+** VXLAN
+
+*   [**VXLAN Configs**](https://github.com/jtanderson2/vxlan-configs)
+    *   [NXOS Data-Plane Learning - 2 Switch](https://github.com/jtanderson2/vxlan-configs/tree/master/nxos-dp-2switch)
+    
 **Ansible Misc**
 
 *   [**Random Ansible stuff from years ago**](https://github.com/jtanderson2/ansible-stuff)
