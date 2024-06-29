@@ -22,7 +22,7 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
     *   [ACI Multitenant Example](https://github.com/jtanderson2/aci-ansible/tree/master/aci-multitenant)
     *   [Remove VMM from EPGs](https://github.com/jtanderson2/aci-ansible/tree/master/remove-vmm-from-epg)
     *   [Policy Group Update](https://github.com/jtanderson2/aci-ansible/tree/master/policy-group-update)
-*   [**ACI CLI Guide**](https://github.com/jtanderson2/cisco-aci-cli)
+*   [**ACI CLI**](https://github.com/jtanderson2/cisco-aci-cli)
 
 **VXLAN**
 
