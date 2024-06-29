@@ -36,10 +36,6 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
     *   [NXOS EVPN - 2 Switch](https://github.com/jtanderson2/vxlan-configs/tree/master/nxos-evpn-2switch)
 
 *   [**VXLAN Resources**]([https://github.com/jtanderson2/vxlan-resources)
-  
-    *   [NXOS Data-Plane Learning - 2 Switch](https://github.com/jtanderson2/vxlan-configs/tree/master/nxos-dp-2switch)
-    *   [NXOS EVPN - 2 Switch](https://github.com/jtanderson2/vxlan-configs/tree/master/nxos-evpn-2switch)
-   
       
     
 **Ansible Misc**
