@@ -37,8 +37,4 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 
 * [**Draw.io Diagrams**](https://github.com/jtanderson2/draw.io)
 
-**Private Repos**
 
-* [**my-git-notes**](https://github.com/jtanderson2/my-git-notes)
-* [**nextgen-ansible**](https://github.com/jtanderson2/nextgen-ansible)
-* [**nxcloud**](https://github.com/jtanderson2/nxcloud)
