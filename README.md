@@ -14,6 +14,7 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
     * [External Load-Balancer and VMs with Web Server](https://github.com/jtanderson2/azure-network-lab-building-blocks/tree/main/external-lb-and-vms)
     * [S2S VPN to OnPrem](https://github.com/jtanderson2/azure-network-lab-building-blocks/tree/main/s2svpn-onprem)
     * [Spoke to Spoke Routing via Hub NVA](https://github.com/jtanderson2/azure-network-lab-building-blocks/tree/main/spoke-to-spoke-via-hub-nva)
+      
 * [**Cisco ASA Configuration - Connecting Resilient VPN to Azure VWAN Hub**](https://github.com/jtanderson2/azure-vwan-asa-config)
 
 **Cisco ACI**
@@ -22,6 +23,7 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
     *   [ACI Multitenant Example](https://github.com/jtanderson2/aci-ansible/tree/master/aci-multitenant)
     *   [Remove VMM from EPGs](https://github.com/jtanderson2/aci-ansible/tree/master/remove-vmm-from-epg)
     *   [Policy Group Update](https://github.com/jtanderson2/aci-ansible/tree/master/policy-group-update)
+      
 *   [**ACI CLI**](https://github.com/jtanderson2/cisco-aci-cli)
 
 **VXLAN**
