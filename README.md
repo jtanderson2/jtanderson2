@@ -10,6 +10,7 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 **Azure**
 
 * [**Azure Networking Lab Building Blocks with Azure CLI**](https://github.com/jtanderson2/azure-network-lab-building-blocks)
+
     * [VNET / Subnet / NSG / VM](https://github.com/jtanderson2/azure-network-lab-building-blocks/tree/main/vnet-subnet-nsg-vm)
     * [External Load-Balancer and VMs with Web Server](https://github.com/jtanderson2/azure-network-lab-building-blocks/tree/main/external-lb-and-vms)
     * [S2S VPN to OnPrem](https://github.com/jtanderson2/azure-network-lab-building-blocks/tree/main/s2svpn-onprem)
@@ -20,6 +21,7 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 **Cisco ACI**
 
 *   [**ACI Automation with Ansible**](https://github.com/jtanderson2/ansible-aci)
+  
     *   [ACI Multitenant Example](https://github.com/jtanderson2/aci-ansible/tree/master/aci-multitenant)
     *   [Remove VMM from EPGs](https://github.com/jtanderson2/aci-ansible/tree/master/remove-vmm-from-epg)
     *   [Policy Group Update](https://github.com/jtanderson2/aci-ansible/tree/master/policy-group-update)
@@ -29,6 +31,7 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 **VXLAN**
 
 *   [**VXLAN Configs**](https://github.com/jtanderson2/vxlan-configs)
+  
     *   [NXOS Data-Plane Learning - 2 Switch](https://github.com/jtanderson2/vxlan-configs/tree/master/nxos-dp-2switch)
       
     
