@@ -15,7 +15,9 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
     * [External Load-Balancer and VMs with Web Server](https://github.com/jtanderson2/azure-network-lab-building-blocks/tree/main/external-lb-and-vms)
     * [S2S VPN to OnPrem](https://github.com/jtanderson2/azure-network-lab-building-blocks/tree/main/s2svpn-onprem)
     * [Spoke to Spoke Routing via Hub NVA](https://github.com/jtanderson2/azure-network-lab-building-blocks/tree/main/spoke-to-spoke-via-hub-nva)
-      
+
+* [**Azure Commands and Scripts**](https://github.com/jtanderson2/azure-commands)
+  
 * [**Cisco ASA Configuration - Connecting Resilient VPN to Azure VWAN Hub**](https://github.com/jtanderson2/azure-vwan-asa-config)
 
 **Cisco ACI**
