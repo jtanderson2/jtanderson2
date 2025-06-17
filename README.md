@@ -11,6 +11,8 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 
 * [**FortiGate Commands and Scripts**](https://github.com/jtanderson2/fortigate-commands)
 
+* [**FCP Study Notes**](https://github.com/jtanderson2/fcp-study-notes)
+
 **Azure**
 
 * [**Azure Networking Lab Building Blocks with Azure CLI**](https://github.com/jtanderson2/azure-network-lab-building-blocks)
