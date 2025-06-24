@@ -11,8 +11,6 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 
 * [**FortiGate Commands and Scripts**](https://github.com/jtanderson2/fortigate-commands)
 
-* [**FCP Study Notes**](https://github.com/jtanderson2/fcp-study-notes)
-
 * [**Fortinet Assistant GPT**](https://chatgpt.com/g/g-684d81b76218819196020b6d1392d805-fortinet-assistant)
 
 **Azure**
