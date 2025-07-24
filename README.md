@@ -7,12 +7,6 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 
 ## Contents
 
-**Fortinet**
-
-* [**FortiGate Commands and Scripts**](https://github.com/jtanderson2/fortigate-commands)
-
-* [**Fortinet Assistant GPT**](https://chatgpt.com/g/g-684d81b76218819196020b6d1392d805-fortinet-assistant)
-
 **Azure**
 
 * [**Azure Networking Lab Building Blocks with Azure CLI**](https://github.com/jtanderson2/azure-network-lab-building-blocks)
