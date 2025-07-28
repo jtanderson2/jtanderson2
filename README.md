@@ -7,46 +7,24 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 
 ## Contents
 
-**Azure**
+* Azure
 
-* [**Azure Networking Lab Building Blocks with Azure CLI**](https://github.com/jtanderson2/azure-network-lab-building-blocks)
+   * [Azure Networking Lab Building Blocks with Azure CLI](https://github.com/jtanderson2/azure-network-lab-building-blocks)
+   * [Azure Commands and Scripts](https://github.com/jtanderson2/azure-commands)
+   * [Cisco ASA Configuration - Connecting Resilient VPN to Azure VWAN Hub](https://github.com/jtanderson2/azure-vwan-asa-config)
 
-    * [VNET / Subnet / NSG / VM](https://github.com/jtanderson2/azure-network-lab-building-blocks/tree/main/vnet-subnet-nsg-vm)
-    * [External Load-Balancer and VMs with Web Server](https://github.com/jtanderson2/azure-network-lab-building-blocks/tree/main/external-lb-and-vms)
-    * [S2S VPN to OnPrem](https://github.com/jtanderson2/azure-network-lab-building-blocks/tree/main/s2svpn-onprem)
-    * [Spoke to Spoke Routing via Hub NVA](https://github.com/jtanderson2/azure-network-lab-building-blocks/tree/main/spoke-to-spoke-via-hub-nva)
 
-* [**Azure Commands and Scripts**](https://github.com/jtanderson2/azure-commands)
-  
-* [**Cisco ASA Configuration - Connecting Resilient VPN to Azure VWAN Hub**](https://github.com/jtanderson2/azure-vwan-asa-config)
+* Cisco ACI
 
-**Cisco ACI**
+   * [ACI Automation with Ansible](https://github.com/jtanderson2/aci-ansible)
+   * [ACI CLI](https://github.com/jtanderson2/cisco-aci-cli)
 
-*   [**ACI Automation with Ansible**](https://github.com/jtanderson2/ansible-aci)
-  
-    *   [ACI Multitenant Example](https://github.com/jtanderson2/aci-ansible/tree/master/aci-multitenant)
-    *   [Remove VMM from EPGs](https://github.com/jtanderson2/aci-ansible/tree/master/remove-vmm-from-epg)
-    *   [Policy Group Update](https://github.com/jtanderson2/aci-ansible/tree/master/policy-group-update)
+* VXLAN 
+
+   *   [VXLAN Configs](https://github.com/jtanderson2/vxlan-configs)
+   *   [VXLAN Resources](https://github.com/jtanderson2/vxlan-resources)
       
-*   [**ACI CLI**](https://github.com/jtanderson2/cisco-aci-cli)
 
-**VXLAN**
 
-*   [**VXLAN Configs**](https://github.com/jtanderson2/vxlan-configs)
-  
-    *   [NXOS Data-Plane Learning - 2 Switch](https://github.com/jtanderson2/vxlan-configs/tree/master/nxos-dp-2switch)
-    *   [NXOS EVPN - 2 Switch](https://github.com/jtanderson2/vxlan-configs/tree/master/nxos-evpn-2switch)
-    *   [NXOS EVPN - Spine-Leaf ](https://github.com/jtanderson2/vxlan-configs/tree/master/nxos-evpn-spine-leaf)
-
-*   [**VXLAN Resources**](https://github.com/jtanderson2/vxlan-resources)
-      
-    
-**Ansible Misc**
-
-*   [**Random Ansible stuff from years ago**](https://github.com/jtanderson2/ansible-stuff)
-
-**Diagrams**
-
-* [**Draw.io Diagrams**](https://github.com/jtanderson2/draw.io)
 
 
