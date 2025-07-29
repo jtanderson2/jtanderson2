@@ -21,8 +21,8 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 
 * VXLAN 
 
-   *   [VXLAN Configs](https://github.com/jtanderson2/vxlan-configs)
-   *   [VXLAN Resources](https://github.com/jtanderson2/vxlan-resources)
+   * [VXLAN Configs](https://github.com/jtanderson2/vxlan-configs)
+   * [VXLAN Resources](https://github.com/jtanderson2/vxlan-resources)
       
 
 
