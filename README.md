@@ -7,6 +7,10 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 
 ## Contents
 
+* Fortinet
+
+  * [Fortinet SD-WAN CLI](https://github.com/jtanderson2/fortinet-sdwan-cli)
+
 * Azure
 
    * [Azure Networking Lab Building Blocks with Azure CLI](https://github.com/jtanderson2/azure-network-lab-building-blocks)
