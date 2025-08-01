@@ -1,6 +1,6 @@
 ## Introduction
 
-I'm a networking guy specialising in Data Center, WAN and Cloud Technologies.
+I'm a networking and security guy specialising in Data Center, WAN and Cloud Technologies.
 
 Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-anderson-22792021" height="15" width="20" /></a>
 
