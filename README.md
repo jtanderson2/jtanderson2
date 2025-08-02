@@ -10,6 +10,7 @@ Connect with me: <a href="https://linkedin.com/in/james-anderson-22792021" targe
 * Fortinet
 
   * [Fortinet SD-WAN CLI](https://github.com/jtanderson2/fortinet-sdwan-cli)
+  * [Fortinet Home Lab Setup](https://github.com/jtanderson2/fortinet-lab)
   * [FortiGate Commands](https://github.com/jtanderson2/fortigate-commands)
 
 * Azure
